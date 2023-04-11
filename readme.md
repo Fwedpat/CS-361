@@ -1,6 +1,4 @@
 # CS 361 - Homework 04
-**Author**: Mark Boady
-**Term**: Fall 2022-2023
 
 ## Overview
 
